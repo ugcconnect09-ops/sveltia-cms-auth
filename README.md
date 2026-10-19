@@ -41,7 +41,7 @@ This simple [Cloudflare Workers](https://workers.cloudflare.com/) script allows 
 > GitLab users don’t need this authenticator at all. GitLab support is included here only for completeness.
 <!-- prettier-ignore-end -->
 
-## How to use it
+## How to use it 
 
 ### Step 1. Deploy this project to Cloudflare Workers
 
